@@ -1,7 +1,9 @@
 # Tableu_Assignment
 1. Say True or False for the below statements:
-• Prescriptive Analytics used to predict the future outcomes? No
-• Base R packages installed automatically? No
+• Prescriptive Analytics used to predict the future outcomes?
+No
+• Base R packages installed automatically? 
+No
 2. What is Recycling of elements in a vector?
 
 When applying an operation to two vectors that requires them to be the same length, R automatically recycles, or repeats, the shorter one, until it is long enough to match the longer one. Here is an example:
